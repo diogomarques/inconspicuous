@@ -1,0 +1,36 @@
+Call for participation: Workshop on Inconspicuous Interaction
+At CHI 2014 – April 26th 2014
+http://inconspicuous.di.fc.ul.pt/
+
+Growing usage of interactive systems in public spaces has highlighted the prevalence of conflicts between desired functionality and maintenance of privacy / social comfort. This has inspired researchers and practitioners to employ inconspicuous interaction styles.
+
+This workshop is a venue for communities engaged in usable security, wearable and mobile interfaces, natural user interfaces, accessibility and social interaction to come together in sharing experiences and discussing avenues for future research. We are seeking position papers that can generate discussion and build bridges between these communities.
+
+Topics of the workshop include:
+- Designing and evaluating inconspicuous interfaces
+- Making use of inconspicuous behavior in interactive systems
+- Privacy-enhancing devices and interaction styles
+- Private interactions in public displays
+- Emerging privacy threats in social contexts
+- Understanding social and cultural issues
+- Understanding contextual interaction restrictions
+- Methodological challenges
+- Limits and unexplored affordances of current interfaces
+
+SUBMISSION
+Papers should be 3-4 pages in CHI Extended Abstracts format (http://chi2014.acm.org/authors/format). Reviews will be double-blind, so please remove information identifying authors from your submissions. At least one author of each accepted paper must register for the workshop and at least one day of the CHI conference.
+
+Submission deadline: January 17th
+Notification: February 10th
+
+Any updates will be posted on the workshop website at http://inconspicuous.di.fc.ul.pt/. Questions should be directed to: inconspicuous2014@di.fc.ul.pt.
+
+ORGANIZING COMMITTEE
+Luís Carriço, University of Lisbon, Portugal
+Alexander De Luca, University of Munich (LMU), Germany
+Tiago Guerreiro, University of Lisbon, Portugal
+Pattie Maes, MIT Media Lab, USA
+Diogo Marques, University of Lisbon, Portugal
+Ildar Muslukhov, University of British Columbia, Canada
+Ian Oakley, UNIST, South Korea
+Emanuel von Zezschwitz, University of Munich (LMU), Germany
