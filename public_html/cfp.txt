@@ -1,5 +1,5 @@
 Call for participation: Workshop on Inconspicuous Interaction
-At CHI 2014 – April 26th 2014
+At CHI 2014 - April 26th 2014
 http://inconspicuous.di.fc.ul.pt/
 
 Growing usage of interactive systems in public spaces has highlighted the prevalence of conflicts between desired functionality and maintenance of privacy / social comfort. This has inspired researchers and practitioners to employ inconspicuous interaction styles.
